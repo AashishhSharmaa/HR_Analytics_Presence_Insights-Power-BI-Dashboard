@@ -4,7 +4,7 @@ The organization requires the development of a Power BI dashboard to analyze and
 
 ## Key Performace Indicators (KPI)
 
-1. **Data Extraction for Q2 2022:** 
-2. **Overall Attendance Analysis:** 
-3. **Work-From-Home Percentage:** 
-4. **Sick Leave Percentage:** 
+1. **Data Extraction for Q2 2022** 
+2. **Overall Attendance Analysis** 
+3. **Work-From-Home Percentage** 
+4. **Sick Leave Percentage** 
