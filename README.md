@@ -40,3 +40,15 @@ This solution entails a streamlined process to derive actionable insights from a
 
 This solution not only enhances the efficiency of data analysis but also provides a powerful tool for HR professionals and decision-makers to grasp essential workforce dynamics and optimize management strategies during the specified period.
 
+## SKILLS Gained
+
+1. **Power BI Proficiency**
+2. **Data Cleaning and Transformation**
+3. **DAX Coding Mastery**
+4. **Metrics Development**
+5. **Data Importation**
+6. **Strategic Analysis**
+7. **Dashboard Design**
+8. **Time-Series Analysis**
+9. **User-Driven Interactivity**
+10. **Project Management**
